@@ -1,0 +1,11 @@
+4476f169079d4b541b25edde8e587925 *DESCRIPTION
+a204c4d1248048bf840796d50d5053ae *NAMESPACE
+5fa440347559836f3b1f708af6385f4d *R/coxerr.R
+b4d27a522c958ed791d17ea5d73431ab *build/vignette.rds
+06958bc1ff2625093f71bcf88f572680 *inst/doc/coxerr.R
+0b2c2d3825387a13b7018e9c4c49f92b *inst/doc/coxerr.Rmd
+f746f90523528447d73ab9fb045758f7 *inst/doc/coxerr.html
+ac402fec6298e33be66e46a53c9d8c60 *man/coxerr.Rd
+d1705bcde0c449414ae871aa94ca9e0e *src/coxerr.f
+b70c1e5705a3c1d1b952812f19e653c7 *src/coxerr_init.c
+0b2c2d3825387a13b7018e9c4c49f92b *vignettes/coxerr.Rmd
